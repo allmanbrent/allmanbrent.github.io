@@ -12,9 +12,9 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://username.github.io/
-baseurl: /sustain/
+baseurl: /
 title: Brent Allman
-author: Tyler Ehrlich
+author: Brent Allman
 description: Personal blog and resume
 avatar: profile.png
 email: allmanbrent@gmail.com
