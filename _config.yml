@@ -11,8 +11,8 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://allmanbrent.github.io/
-baseurl: http://allmanbrent.github.io/
+url: https://allmanbrent.github.io/
+baseurl: https://allmanbrent.github.io/
 title: Brent Allman
 author: Brent Allman
 description: Personal blog and resume
