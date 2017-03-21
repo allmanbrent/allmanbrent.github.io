@@ -95,6 +95,11 @@ img {
    border:1px solid #021a40;
 }
 
+.borderless{
+    border: 0px;
+    width: 70px;
+}
+
 .profile {
     width: 190px;
 }
