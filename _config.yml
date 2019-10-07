@@ -1,6 +1,6 @@
 # top level stuff you probably don't need to touch
-# changed from pygments to rogue
-highlighter: rogue
+# changed from pygments to rouge
+highlighter: rouge
 markdown: rdiscount
 rdiscount:
   extensions: [smart]
